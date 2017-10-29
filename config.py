@@ -5,11 +5,12 @@ proxyUrl='http://tvp.daxiangdaili.com/ip/?'
 #此处修改为你的订单号码
 proxyBill='Your Billing Number'
 
+#一次提取的数量
 proxyNum=20
 
 proxyFormat='json'
 
-proxyProtocol='https'
+#proxyProtocol='https'
 
 def getUrl():
 	global proxyUrl
