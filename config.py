@@ -1,4 +1,4 @@
-#encoding=utf-8
+#coding=utf-8
 
 proxyUrl='http://tvp.daxiangdaili.com/ip/?'
 
